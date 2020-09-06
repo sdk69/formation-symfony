@@ -40,7 +40,7 @@ class AccountController extends AbstractController
     /**
      * Disconnects the user
      * 
-     * @Route("/logout", name="app_logout")
+     * @Route("/logout", name="account_logout")
      *
      * @return void
      */
